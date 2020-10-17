@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">
+<br>
+  Hi there 👋, I'm François TM!
+  <br>
+</h1>
+<h3 align="center">
+  I'm a Developer by passion and CS student at UCLouvain in belgium!
+ </h3>
 
-<!--
-**notfrancoistm/notfrancoistm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/Python-blue.svg?style=flat-square>" alt="Javascript">
+  </a>
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/JavaScript-yellow.svg?style=flat-square>" alt="Javascript">
+  </a>
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/NextJS-black.svg?style=flat-square" alt="NextJS">
+  </a>   
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Reach me at [@francoistm_](https://twitter.com/francoistm_) !
