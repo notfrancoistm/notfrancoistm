@@ -19,4 +19,4 @@
   </a>   
 </p>
 
-- 📫 Reach me at [@francoistm_](https://twitter.com/francoistm_) !
+- 📫 Reach me at [@notfrancoistm](https://twitter.com/notfrancoistm) !
