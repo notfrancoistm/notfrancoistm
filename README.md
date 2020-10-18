@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://reactjs.org/">
-    <img src="https://img.shields.io/badge/Python-blue.svg?style=flat-square>" alt="Javascript">
+    <img src="https://img.shields.io/badge/Python-blue.svg?style=flat-square>" alt="Python">
   </a>
   <a href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/JavaScript-yellow.svg?style=flat-square>" alt="Javascript">
