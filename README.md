@@ -1,5 +1,5 @@
 <h1 align="center">
-![](salt.gif)
+![](https://github.com/francoistm/francoistm/blob/main/salt.gif)
 <br>
   Hi there 👋, I'm François TM!
   <br>
