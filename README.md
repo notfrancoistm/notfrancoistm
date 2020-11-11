@@ -4,7 +4,7 @@
   <br>
 </h1>
 <h3 align="center">
-  I'm a Developer by passion and CS student at UCLouvain in belgium!
+  I'm a developer by passion and CS student at UCLouvain in belgium!
  </h3>
 
 <p align="center">
