@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://github.com/francoistm/francoistm/blob/main/salt.gif"/>
+<img src="https://github.com/francoistm/francoistm/blob/main/checkthisout.gif"/>
 <br>
   Hi there 👋, I'm François TM!
   <br>
