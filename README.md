@@ -1,5 +1,4 @@
 <h1 align="center">
-<img src="https://github.com/francoistm/francoistm/blob/main/checkthisout.gif"/>
 <br>
   Hi there 👋, I'm François TM!
   <br>
@@ -19,3 +18,4 @@
     <img src="https://img.shields.io/badge/NextJS-black.svg?style=flat-square" alt="NextJS">
   </a>   
 </p>
+<img align="center" src="https://github.com/francoistm/francoistm/blob/main/checkthisout.gif"/>
