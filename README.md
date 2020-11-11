@@ -1,5 +1,5 @@
 <h1 align="center">
-![](https://media.giphy.com/media/dCdTUwSva7GOzPAcf3/giphy.gif)
+![](https://media.giphy.com/media/dCdTUwSva7GOzPAcf3/source.gif)
 <br>
   Hi there 👋, I'm François TM!
   <br>
