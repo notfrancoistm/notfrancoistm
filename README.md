@@ -17,7 +17,6 @@
   <a href="#">
     <img src="https://img.shields.io/badge/NextJS-black.svg?style=flat-square" alt="NextJS">
   </a>
-  <img style="img: center" src="https://github.com/francoistm/francoistm/blob/main/checkthisout.gif"/>
 </p>
 <div align="center">
   <img style="img: center" src="https://github.com/francoistm/francoistm/blob/main/checkthisout.gif"/>
