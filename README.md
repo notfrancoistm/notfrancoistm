@@ -18,5 +18,3 @@
     <img src="https://img.shields.io/badge/NextJS-black.svg?style=flat-square" alt="NextJS">
   </a>   
 </p>
-
-- 📫 Reach me at [@notfrancoistm](https://twitter.com/notfrancoistm) !
