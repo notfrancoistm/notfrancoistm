@@ -6,12 +6,11 @@
 <h3 align="center">
   I'm a developer by passion and CS student at UCLouvain in belgium!
  </h3>
- <img src="https://img.shields.io/badge/<handle>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
- <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 
 <h4>Skills</h4>
 
-<p align="center">
+<div align="center">
   <h5>Programming Languages</h5>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
@@ -21,7 +20,7 @@
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
-</p>
+</div>
 
 <p align="center">
   <h5>Frameworks</h5>
@@ -53,4 +52,4 @@ Social
 <div align="center">
   <img style="img: center" src="https://github.com/francoistm/francoistm/blob/main/checkthisout.gif"/>
 </div>
-
+<img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=francoistm&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
