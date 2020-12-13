@@ -4,13 +4,10 @@
   <br>
 </h1>
 <h3 align="center">
-  I'm a developer by passion in belgium!
+  I'm a frontend developer by passion here in belgium 🇧🇪
  </h3>
 
-
-<h4>Skills</h4>
-
-<div align="center">
+ <div align="center">
   <h5>Programming Languages</h5>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
@@ -43,4 +40,18 @@
   <img src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/>
 </div>
 
+<div align="center">
+  <h3>Contact me or Follow me on :</h3>
+  <ul>
+    <li><img src="https://img.shields.io/badge/@francoistm%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></li>
+    <li><img src="https://img.shields.io/badge//francoistm%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></li>
+  </ul>
+  <h5>Version Control</h5>
+  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/>
+</div>
 
+
+ 
+</h1>
