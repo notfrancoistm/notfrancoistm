@@ -46,10 +46,6 @@
     <li><img src="https://img.shields.io/badge/@francoistm%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></li>
     <li><img src="https://img.shields.io/badge//francoistm%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></li>
   </ul>
-  <h5>Version Control</h5>
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/>
 </div>
 
 
