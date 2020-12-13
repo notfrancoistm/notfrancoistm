@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/JavaScript-yellow.svg?style=flat-square>" alt="Javascript">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/React-blue.svg?style=flat-square" alt="NextJS">
+    <img src="https://img.shields.io/badge/React-brightblue.svg?style=flat-square" alt="ReactJS">
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/NextJS-black.svg?style=flat-square" alt="NextJS">
