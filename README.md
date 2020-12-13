@@ -4,7 +4,7 @@
   <br>
 </h1>
 <h3 align="center">
-  I'm a developer by passion and CS student at UCLouvain in belgium!
+  I'm a developer by passion in belgium!
  </h3>
 
 
@@ -43,13 +43,4 @@
   <img src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/>
 </div>
 
-<div align="center">
-  <h5>Social</h5>
-  <img src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
-</div>
-Social
 
-<div align="center">
-  <img style="img: center" src="https://github.com/francoistm/francoistm/blob/main/checkthisout.gif"/>
-</div>
-<img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=francoistm&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
