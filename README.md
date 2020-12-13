@@ -8,7 +8,7 @@
  </h3>
 
  <div align="center">
-  <h5>Programming Languages</h5>
+  <h5>Tools 🛠</h5>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
@@ -17,10 +17,6 @@
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
-</div>
-
-<div align="center">
-  <h5>Frameworks</h5>
   <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
@@ -38,14 +34,6 @@
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/>
-</div>
-
-<div align="center">
-  <h3>Contact me or Follow me on :</h3>
-  <ul>
-    <li><img src="https://img.shields.io/badge/@francoistm%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></li>
-    <li><img src="https://img.shields.io/badge//francoistm%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></li>
-  </ul>
 </div>
 
 
