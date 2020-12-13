@@ -9,13 +9,16 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/Python-blue.svg?style=flat-square>" alt="Python">
-  </a>
-  <a href="#">
     <img src="https://img.shields.io/badge/JavaScript-yellow.svg?style=flat-square>" alt="Javascript">
   </a>
   <a href="#">
+    <img src="https://img.shields.io/badge/React-blue.svg?style=flat-square" alt="NextJS">
+  </a>
+  <a href="#">
     <img src="https://img.shields.io/badge/NextJS-black.svg?style=flat-square" alt="NextJS">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Python-blue.svg?style=flat-square>" alt="Python">
   </a>
 </p>
 <div align="center">
