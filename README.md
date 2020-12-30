@@ -4,7 +4,7 @@
   <br>
 </h1>
 <h3 align="center">
-  I'm a frontend developer by passion here in belgium 🇧🇪
+  I'm a Javasccript developer by passion here in belgium 🇧🇪
  </h3>
 
  <div align="center">
