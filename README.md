@@ -19,6 +19,7 @@
   <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
 <h4 align="center">
-  Ping me on [Twitter](https://twitter.com/francoistm_) or by [email](contact@francoistm.com)
+  Ping me on <a href="https://twitter.com/francoistm_">Twitter</a> or by <a href="mailto:contact@francoistm.com">email</a>.
+ 
  </h4>
 </h1>
