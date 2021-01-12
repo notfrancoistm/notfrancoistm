@@ -1,13 +1,13 @@
-<h1 align="center">
-<br>
-  Hi there 👋, I'm François!
-  <br>
+<div style="text-align: center;">
+<h1>
+  Hi there 👋, I'm François
 </h1>
-<h3 align="center">
+
+<h3>
   I'm a full-stack Javascript developer by passion here in belgium 🇧🇪
 </h3>
 
-<div align="center">
+<div>
  <h3>Tools 🛠</h3>
  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
  <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
@@ -18,13 +18,16 @@
  <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
  <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
-<h3 align="center">
+
+<h3>
   Working on 
 </h3>
-<div align="center">
+
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francoistm&theme=blue-green"/>
 </div>
-<h4 align="center">
+
+<h4>
   Ping me on <a href="https://twitter.com/francoistm_">Twitter</a> or by <a href="mailto:contact@francoistm.com">email</a>.
 </h4>
-</h1>
+</div>
