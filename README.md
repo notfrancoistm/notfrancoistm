@@ -4,7 +4,7 @@
 </h1>
 
 <h3>
-  I'm a full-stack Javascript developer by passion here in belgium 🇧🇪
+  I'm a web developer by passion here in belgium 🇧🇪
 </h3>
 
 <div>
