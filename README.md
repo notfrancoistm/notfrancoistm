@@ -22,11 +22,6 @@
 <h3>
   Working on 
 </h3>
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francoistm&theme=blue-green"/>
-</div>
-
 <h4>
   Ping me on <a href="https://twitter.com/francoistm_">Twitter</a> or by <a href="mailto:contact@francoistm.com">email</a>.
 </h4>
