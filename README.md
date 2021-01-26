@@ -1,4 +1,5 @@
 <div style="text-align: center;">
+  <img src="https://github.com/francoistm/francoistm/blob/main/Untitled.svg">
 <h1>
   Hi there 👋, I'm François
 </h1>
