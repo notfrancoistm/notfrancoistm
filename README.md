@@ -20,6 +20,6 @@
   Working on 
 </h3>
 <h4>
-  Ping me on <a href="https://twitter.com/francoistm_">Twitter</a> or by <a href="mailto:contact@francoistm.com">email</a>.
+  📫 Ping me on <a href="https://twitter.com/francoistm_">Twitter</a> or by <a href="mailto:contact@francoistm.com">email</a>.
 </h4>
 </div>
