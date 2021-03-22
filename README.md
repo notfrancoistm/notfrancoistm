@@ -4,8 +4,9 @@
   I'm a web developer by passion here in belgium 🇧🇪
 </h3>
 <div style="text-align: center;">
-  <img src="/blob/main/octocat.gif">
-   <img src="/blob/main/iu.gif">
+  <img src="https://github.com/francoistm/francoistm/blob/main/octocat.gif">
+   <img src="https://github.com/francoistm/francoistm/blob/main/iu.gif">
+   
 <h3>
 
 <div>
