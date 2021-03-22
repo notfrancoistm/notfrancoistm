@@ -25,6 +25,5 @@
 <h4>
   📫 Ping me on <a href="https://twitter.com/francoistm_">Twitter</a> or by <a href="mailto:contact@francoistm.com">email</a>.
 </h4>
-<a href="https://github.com/francoistm/francoistm/blob/main/banner.svg" download>
-</a>
+<a href="https://github.com/francoistm/francoistm/blob/main/banner.svg" download>Resume</a>
 </div>
