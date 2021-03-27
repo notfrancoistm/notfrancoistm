@@ -5,8 +5,6 @@
   </h3>
 </div>
 <div style="text-align: center;">
-  <img src="https://github.com/francoistm/francoistm/blob/main/octocat.gif">
-  <img src="https://github.com/francoistm/francoistm/blob/main/iu.gif">
 </div>
 <div>
    <h3>Tools 🛠</h3>
