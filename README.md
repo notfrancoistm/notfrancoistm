@@ -3,9 +3,9 @@
   <h3>
     I'm a web developer by passion here in belgium 🇧🇪
     <div>
-      <a href=""><img src="https://img.shields.io/github/followers/francoistm?style=social" alt="github follow"></a>
-      <a href=""><img src="https://img.shields.io/twitter/follow/francoistm_?style=social" alt="twitter follow"></a>
-      <a href=""><img src="https://img.shields.io/twitch/status/francoistm?style=social" alt="twitch channel"></a>
+      <a href="#" target="_blank"><img src="https://img.shields.io/github/followers/francoistm?style=social" alt="github follow"></a>
+      <a href="https://github.com/login?return_to=%2Ffrancoistm" target="_blank"><img src="https://img.shields.io/twitter/follow/francoistm_?style=social" alt="twitter follow"></a>
+      <a href="https://www.twitch.tv/francoistm" target="_blank"><img src="https://img.shields.io/twitch/status/francoistm?style=social" alt="twitch channel"></a>
     </div>
   </h3>
 </div>
