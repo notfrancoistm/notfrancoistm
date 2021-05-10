@@ -2,6 +2,11 @@
   <img src="https://github.com/francoistm/francoistm/blob/main/banner.svg">
   <h3>
     I'm a web developer by passion here in belgium 🇧🇪
+    <div>
+      <a href=""><img src="https://img.shields.io/github/followers/francoistm?style=social" alt="github follow"></a>
+      <a href=""><img src="https://img.shields.io/twitter/follow/francoistm_?style=social" alt="twitter follow"></a>
+      <a href=""><img src="https://img.shields.io/twitch/status/francoistm?style=social" alt="twitch channel"></a>
+    </div>
   </h3>
 </div>
 <div style="text-align: center;">
