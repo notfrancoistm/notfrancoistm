@@ -25,7 +25,7 @@
 </div>
 <div>
   <h3>Working on 🔧</h3>
-  <h3>Learning about Three.js 👀</h3>
+  <p>Learning about Three.js 👀</p>
   <h3>
     📫 Ping me on <a href="https://twitter.com/francoistm_">Twitter</a> or by <a href="mailto:contact@francoistm.com">email</a>.
   </h3>
