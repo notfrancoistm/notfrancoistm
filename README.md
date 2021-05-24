@@ -24,9 +24,8 @@
   <img alt="Python" src="https://img.shields.io/badge/python%20-%23563D7C.svg?&style=for-the-badge&logo=python&logoColor=yellow"/>
 </div>
 <div>
-  <h3>
-    Working on a web site with visual chats and database
-  </h3>
+  <h3>Working on 🔧</h3>
+  <h3>Learning about Three.js 👀</h3>
   <h3>
     📫 Ping me on <a href="https://twitter.com/francoistm_">Twitter</a> or by <a href="mailto:contact@francoistm.com">email</a>.
   </h3>
